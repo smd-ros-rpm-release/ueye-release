@@ -1,0 +1,7 @@
+ros-indigo-ueye (0.0.1-0saucy) saucy; urgency=high
+
+  * Initial release into build system.
+
+ -- Kevin Hallenbeck <kmhallen@oakand.edu>  Sun, 14 Sep 2014 04:00:00 -0000
+
+
